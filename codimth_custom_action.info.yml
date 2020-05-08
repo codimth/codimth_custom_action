@@ -1,0 +1,6 @@
+name: Codimth Custom Action
+description: Create Custom Action
+package: Codimth
+
+type: module
+core_version_requirement: ^8.8.0 || ^9.0

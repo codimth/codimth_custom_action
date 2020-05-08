@@ -1,0 +1,3 @@
+action.configuration.codimth_custom_action:
+  type: node_export_action
+  label: 'Export Content'
